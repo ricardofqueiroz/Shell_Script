@@ -1,5 +1,5 @@
 #!/bin/bash
-#Criar o sistema de função principal. Havera dois sistemas a ser escolhido pelo usuário
+#Sistema de funções. Havera dois sistemas a ser escolhido pelo usuário
 #=====================================================================#
 #Obs: Na primeira opção da função que mostra as horas foi criada uma espécie de módulo como se usa em liguagens como c# por exemplo,
 #no caso foi pego um arquivo fora do script e colocado dentro de uma variável no sistema, evitando colocar o código inteiro,
